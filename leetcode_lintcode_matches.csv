@@ -1,0 +1,877 @@
+﻿LintCode  Num,LintCode Title,LeetCode Num,LeetCode Title,LeetCode Num,LeetCode Title
+1,A + B Problem,,,,
+2,Trailing Zeros,172,Factorial  Trailing Zeroes,,
+3,Digit Counts,362,Design Hit Counter,,
+4,Ugly Number II,264,Ugly Number II,263,Ugly Number
+5,Kth Largest  Element,215,Kth  Largest Element in an Array,703,Kth  Largest Element in a Stream
+6,Merge Two  Sorted Arrays,88,Merge Sorted Array,21,Merge Two Sorted  Lists
+7,Binary Tree  Serialization,563,Binary Tree Tilt,257,Binary Tree Paths
+8,Rotate String,796,Rotate String,767,Reorganize String
+9,Fizz Buzz,412,Fizz Buzz,,
+10,String  Permutation II,47,Permutations II,484,Find Permutation
+11,Search  Range in Binary Search Tree,700,Search in  a Binary Search Tree,501,Find  Mode in Binary Search Tree
+12,Min Stack,155,Min Stack,716,Max Stack
+13,strStr,,,,
+14,First  Position of Target,830,Positions of  Large Groups,,
+15,Permutations,46,Permutations,47,Permutations II
+16,Permutations II,47,Permutations II,46,Permutations
+17,Subsets,78,Subsets,90,Subsets II
+18,Subsets II,90,Subsets II,78,Subsets
+20,Dices Sum,,,,
+22,Flatten List,61,Rotate List,86,Partition List
+24,LFU Cache,460,LFU Cache,146,LRU Cache
+28,Search a 2D Matrix,74,Search a 2D Matrix,240,Search a 2D Matrix  II
+29,Interleaving  String,97,Interleaving String,344,Reverse String
+30,Insert Interval,57,Insert Interval,56,Merge Intervals
+31,Partition Array,330,Patching Array,763,Partition Labels
+32,Minimum  Window Substring,76,Minimum Window  Substring,727,Minimum  Window Subsequence
+33,N-Queens,51,N-Queens,52,N-Queens II
+34,N-Queens II,52,N-Queens II,51,N-Queens
+35,Reverse Linked  List,206,Reverse Linked List,92,Reverse Linked  List II
+36,Reverse Linked  List II,92,Reverse Linked  List II,206,Reverse Linked List
+37,Reverse  3-digit Integer,7,Reverse Integer,,
+38,Search a 2D  Matrix II,240,Search a 2D Matrix  II,74,Search a 2D Matrix
+39,Recover  Rotated Sorted Array,33,Search in  Rotated Sorted Array,81,Search  in Rotated Sorted Array II
+40,Implement  Queue by Two Stacks,232,Implement  Queue using Stacks,,
+41,Maximum Subarray,53,Maximum Subarray,152,Maximum Product  Subarray
+42,Maximum Subarray  II,53,Maximum Subarray,644,Maximum  Average Subarray II
+43,Maximum Subarray  III,53,Maximum Subarray,644,Maximum  Average Subarray II
+44,Minimum Subarray,53,Maximum Subarray,209,Minimum Size  Subarray Sum
+45,Maximum  Subarray Difference,53,Maximum Subarray,539,Minimum Time  Difference
+46,Majority Number,179,Largest Number,65,Valid Number
+47,Majority Number II,229,Majority Element II,264,Ugly Number II
+48,Majority Number  III,229,Majority Element II,264,Ugly Number II
+49,Sort Letters by  Case,709,To Lower Case,,
+50,Product  of Array Exclude Itself,238,Product of  Array Except Self,,
+51,Previous  Permutation,31,Next Permutation,484,Find Permutation
+52,Next Permutation,31,Next Permutation,46,Permutations
+53,Reverse  Words in a String,151,Reverse Words  in a String,186,Reverse  Words in a String II
+54,String to  Integer II,8,String to  Integer (atoi),13,Roman to Integer
+55,Compare Strings,796,Rotate String,854,K-Similar Strings
+56,Two Sum,1,Two Sum,,
+57,3Sum,15,3Sum,18,4Sum
+58,4Sum,18,4Sum,15,3Sum
+59,3Sum Closest,16,3Sum Closest,,
+60,Search Insert  Position,35,Search Insert  Position,,
+61,Search for a Range,34,Search for a Range,,
+62,Search  in Rotated Sorted Array,33,Search in  Rotated Sorted Array,81,Search  in Rotated Sorted Array II
+63,Search  in Rotated Sorted Array II,81,Search  in Rotated Sorted Array II,33,Search in  Rotated Sorted Array
+64,Merge Sorted Array,88,Merge Sorted Array,23,Merge k Sorted  Lists
+65,Median of  two Sorted Arrays,4,Median of  Two Sorted Arrays,33,Search in  Rotated Sorted Array
+66,Binary  Tree Preorder Traversal,144,Binary  Tree Preorder Traversal,145,Binary  Tree Postorder Traversal
+67,Binary  Tree Inorder Traversal,94,Binary  Tree Inorder Traversal,144,Binary  Tree Preorder Traversal
+68,Binary  Tree Postorder Traversal,145,Binary  Tree Postorder Traversal,590,N-ary Tree  Postorder Traversal
+69,Binary  Tree Level Order Traversal,102,Binary  Tree Level Order Traversal,107,Binary  Tree Level Order Traversal II
+70,Binary  Tree Level Order Traversal II,107,Binary  Tree Level Order Traversal II,102,Binary  Tree Level Order Traversal
+71,Binary  Tree Zigzag Level Order Traversal,103,Binary  Tree Zigzag Level Order Traversal,102,Binary  Tree Level Order Traversal
+72,Construct  Binary Tree from Inorder and Postorder Traversal,106,Construct  Binary Tree from Inorder and Postorder Traversal,889,Construct  Binary Tree from Preorder and Postorder Traversal
+73,Construct  Binary Tree from Preorder and Inorder Traversal,105,Construct  Binary Tree from Preorder and Inorder Traversal,889,Construct  Binary Tree from Preorder and Postorder Traversal
+74,First Bad Version,278,First Bad Version,,
+75,Find Peak Element,162,Find Peak Element,658,Find K Closest  Elements
+76,Longest  Increasing Subsequence,300,Longest  Increasing Subsequence,673,Number  of Longest Increasing Subsequence
+77,Longest  Common Subsequence,521,Longest  Uncommon Subsequence I,522,Longest  Uncommon Subsequence II
+78,Longest Common  Prefix,14,Longest Common  Prefix,819,Most Common Word
+79,Longest  Common Substring,14,Longest Common  Prefix,5,Longest  Palindromic Substring
+80,Median,,,,
+81,Data Stream Median,,,,
+82,Single Number,136,Single Number,137,Single Number II
+83,Single Number II,137,Single Number II,260,Single Number III
+84,Single Number III,260,Single Number III,137,Single Number II
+85,Insert  Node in a Binary Search Tree,701,Insert  into a Binary Search Tree,501,Find  Mode in Binary Search Tree
+86,Binary  Search Tree Iterator,173,Binary  Search Tree Iterator,95,Unique  Binary Search Trees II
+87,Remove  Node in Binary Search Tree,99,Recover  Binary Search Tree,501,Find  Mode in Binary Search Tree
+88,Lowest Common  Ancestor,236,Lowest  Common Ancestor of a Binary Tree,819,Most Common Word
+89,k Sum,1,Two Sum,18,4Sum
+90,k Sum II,454,4Sum II,113,Path Sum II
+91,Minimum  Adjustment Cost,,,,
+92,Backpack,,,,
+93,Balanced Binary  Tree,110,Balanced Binary  Tree,226,Invert Binary Tree
+94,Binary  Tree Maximum Path Sum,124,Binary Tree  Maximum Path Sum,257,Binary Tree Paths
+95,Validate  Binary Search Tree,98,Validate  Binary Search Tree,669,Trim a Binary  Search Tree
+96,Partition List,86,Partition List,763,Partition Labels
+97,Maximum  Depth of Binary Tree,104,Maximum  Depth of Binary Tree,111,Minimum  Depth of Binary Tree
+98,Sort List,148,Sort List,61,Rotate List
+99,Reorder List,143,Reorder List,61,Rotate List
+100,Remove  Duplicates from Sorted Array,26,Remove  Duplicates from Sorted Array,80,Remove  Duplicates from Sorted Array II
+101,Remove  Duplicates from Sorted Array II,80,Remove  Duplicates from Sorted Array II,26,Remove  Duplicates from Sorted Array
+102,Linked List Cycle,141,Linked List Cycle,142,Linked List Cycle  II
+103,Linked List  Cycle II,142,Linked List Cycle  II,141,Linked List Cycle
+104,Merge k Sorted  Lists,23,Merge k Sorted  Lists,21,Merge Two Sorted  Lists
+105,Copy  List with Random Pointer,138,Copy List  with Random Pointer,,
+106,Convert  Sorted List to Balanced BST,109,Convert  Sorted List to Binary Search Tree,108,Convert  Sorted Array to Binary Search Tree
+107,Word Break,139,Word Break,140,Word Break II
+108,Palindrome  Partitioning II,132,Palindrome  Partitioning II,131,Palindrome  Partitioning
+109,Triangle,120,Triangle,118,Pascal's Triangle
+110,Minimum Path Sum,64,Minimum Path Sum,124,Binary Tree  Maximum Path Sum
+111,Climbing Stairs,70,Climbing Stairs,746,Min Cost  Climbing Stairs
+112,Remove  Duplicates from Sorted List,83,Remove  Duplicates from Sorted List,82,Remove  Duplicates from Sorted List II
+113,Remove  Duplicates from Sorted List II,82,Remove  Duplicates from Sorted List II,83,Remove  Duplicates from Sorted List
+114,Unique Paths,62,Unique Paths,63,Unique Paths II
+115,Unique Paths II,63,Unique Paths II,62,Unique Paths
+116,Jump Game,55,Jump Game,45,Jump Game II
+117,Jump Game II,45,Jump Game II,55,Jump Game
+118,Distinct  Subsequences,115,Distinct  Subsequences,392,Is Subsequence
+119,Edit Distance,72,Edit Distance,161,One Edit Distance
+120,Word Ladder,127,Word Ladder,126,Word Ladder II
+121,Word Ladder II,126,Word Ladder II,127,Word Ladder
+122,Largest  Rectangle in Histogram,84,Largest  Rectangle in Histogram,812,Largest Triangle  Area
+123,Word Search,79,Word Search,212,Word Search II
+124,Longest  Consecutive Sequence,128,Longest  Consecutive Sequence,298,Binary  Tree Longest Consecutive Sequence
+125,Backpack II,,,,
+126,Max Tree,100,Same Tree,,
+127,Topological  Sorting,481,Magical String,,
+128,Hash Function,396,Rotate Function,,
+129,Rehashing,,,,
+130,Heapify,,,,
+131,Building Outline,773,Sliding Puzzle,,
+132,Word Search II,212,Word Search II,79,Word Search
+133,Longest Words,58,Length of Last Word,720,Longest Word  in Dictionary
+134,LRU Cache,146,LRU Cache,460,LFU Cache
+135,Combination Sum,39,Combination Sum,377,Combination Sum IV
+136,Palindrome  Partitioning,131,Palindrome  Partitioning,132,Palindrome  Partitioning II
+137,Clone Graph,133,Clone Graph,656,Coin Path
+138,Subarray Sum,560,Subarray Sum  Equals K,523,Continuous  Subarray Sum
+139,Subarray Sum  Closest,560,Subarray Sum  Equals K,16,3Sum Closest
+140,Fast Power,,,,
+141,Sqrt(x),69,Sqrt(x),,
+142,O(1) Check  Power of 2,,,,
+143,Sort Colors II,75,Sort Colors,,
+144,Interleaving  Positive and Negative Numbers,,,,
+145,Lowercase to  Uppercase,,,,
+148,Sort Colors,75,Sort Colors,148,Sort List
+149,Best  Time to Buy and Sell Stock,121,Best  Time to Buy and Sell Stock,188,Best  Time to Buy and Sell Stock IV
+150,Best  Time to Buy and Sell Stock II,122,Best  Time to Buy and Sell Stock II,123,Best  Time to Buy and Sell Stock III
+151,Best  Time to Buy and Sell Stock III,123,Best  Time to Buy and Sell Stock III,122,Best  Time to Buy and Sell Stock II
+152,Combinations,77,Combinations,39,Combination Sum
+153,Combination Sum II,40,Combination Sum II,216,Combination Sum III
+154,Regular  Expression Matching,10,Regular  Expression Matching,439,Ternary  Expression Parser
+155,Minimum  Depth of Binary Tree,111,Minimum  Depth of Binary Tree,104,Maximum  Depth of Binary Tree
+156,Merge Intervals,56,Merge Intervals,57,Insert Interval
+157,Unique Characters,62,Unique Paths,387,First  Unique Character in a String
+158,Two Strings  Are Anagrams,,,,
+159,Find  Minimum in Rotated Sorted Array,153,Find  Minimum in Rotated Sorted Array,154,Find  Minimum in Rotated Sorted Array II
+160,Find  Minimum in Rotated Sorted Array II,154,Find  Minimum in Rotated Sorted Array II,153,Find  Minimum in Rotated Sorted Array
+161,Rotate Image,48,Rotate Image,189,Rotate Array
+162,Set Matrix Zeroes,73,Set Matrix Zeroes,474,Ones and Zeroes
+163,Unique  Binary Search Trees,96,Unique Binary  Search Trees,95,Unique  Binary Search Trees II
+164,Unique  Binary Search Trees II,95,Unique  Binary Search Trees II,96,Unique Binary  Search Trees
+165,Merge Two  Sorted Lists,21,Merge Two Sorted  Lists,23,Merge k Sorted  Lists
+166,Nth to Last  Node in List,,,,
+167,Add Two Numbers,2,Add Two Numbers,445,Add Two Numbers II
+168,Burst Balloons,312,Burst Balloons,,
+169,Tower of Hanoi,231,Power of Two,342,Power of Four
+170,Rotate List,61,Rotate List,788,Rotated Digits
+171,Anagrams,49,Group Anagrams,242,Valid Anagram
+172,Remove Element,27,Remove Element,722,Remove Comments
+173,Insertion Sort  List,147,Insertion Sort List,708,Insert  into a Cyclic Sorted List
+174,Remove  Nth Node From End of List,19,Remove  Nth Node From End of List,83,Remove  Duplicates from Sorted List
+175,Invert Binary Tree,226,Invert Binary Tree,655,Print Binary Tree
+176,Route  Between Two Nodes in Graph,25,Reverse Nodes in  k-Group,,
+177,Convert  Sorted Array to Binary Search Tree With Minimal Height,108,Convert  Sorted Array to Binary Search Tree,109,Convert  Sorted List to Binary Search Tree
+178,Graph Valid Tree,261,Graph Valid Tree,,
+179,Update Bits,,,,
+180,Binary  Representation,814,Binary Tree Pruning,257,Binary Tree Paths
+181,Flip Bits,,,,
+182,Delete Digits,788,Rotated Digits,402,Remove K Digits
+183,Wood Cut,,,,
+184,Largest Number,179,Largest Number,494,Target Sum
+185,Matrix Zigzag  Traversal,,,,
+186,Max Points on a  Line,149,Max Points on a  Line,,
+187,Gas Station,134,Gas Station,824,Goat Latin
+189,First Missing  Positive,41,First Missing  Positive,296,Best Meeting Point
+190,Next Permutation  II,31,Next Permutation,47,Permutations II
+191,Maximum  Product Subarray,152,Maximum Product  Subarray,53,Maximum Subarray
+192,Wildcard Matching,44,Wildcard Matching,,
+196,Find the  Missing Number,268,Missing Number,287,Find the  Duplicate Number
+197,Permutation Index,47,Permutations II,46,Permutations
+198,Permutation  Index II,47,Permutations II,46,Permutations
+200,Longest  Palindromic Substring,5,Longest  Palindromic Substring,516,Longest  Palindromic Subsequence
+201,Segment Tree Build,,,,
+202,Segment Tree Query,,,,
+203,Segment Tree  Modify,,,,
+204,Singleton,,,,
+205,Interval  Minimum Number,321,Create Maximum  Number,414,Third Maximum  Number
+206,Interval Sum,,,,
+207,Interval Sum II,113,Path Sum II,,
+208,Assignment  Operator Overloading (C++ Only),,,,
+209,First  Unique Character in a String,387,First  Unique Character in a String,828,Unique Letter  String
+211,String Permutation,484,Find Permutation,31,Next Permutation
+212,Space Replacement,397,Integer Replacement,,
+213,Implement Stack,28,Implement strStr(),225,Implement  Stack using Queues
+215,Rate Limiter,359,Logger Rate Limiter,61,Rotate List
+219,Insert  Node in Sorted Linked List,237,Delete Node  in a Linked List,147,Insertion Sort List
+221,Add Two Numbers II,445,Add Two Numbers II,2,Add Two Numbers
+223,Palindrome  Linked List,234,Palindrome Linked  List,369,Plus One Linked  List
+227,Mock Hanoi  Tower by Stacks,,,,
+228,Middle of  Linked List,876,Middle of the  Linked List,328,Odd Even Linked  List
+231,Typeahead,,,,
+232,Tiny Url,,,,
+234,Webpage Crawler,,,,
+236,Swap Bits,,,,
+242,Convert  Binary Tree to Linked Lists by Depth,114,Flatten  Binary Tree to Linked List,426,Convert  Binary Search Tree to Sorted Doubly Linked List
+243,Amicable Pair,,,,
+245,Subtree,,,,
+246,Binary Tree  Path Sum II,257,Binary Tree Paths,124,Binary Tree  Maximum Path Sum
+247,Segment Tree  Query II,,,,
+248,Count of  Smaller Number,315,Count  of Smaller Numbers After Self,327,Count of Range Sum
+249,Count  of Smaller Number before itself,315,Count  of Smaller Numbers After Self,,
+254,Drop Eggs,,,,
+272,Climbing Stairs II,70,Climbing Stairs,746,Min Cost  Climbing Stairs
+360,Sliding Window  Median,480,Sliding Window  Median,239,Sliding Window  Maximum
+362,Sliding Window  Maximum,239,Sliding Window  Maximum,480,Sliding Window  Median
+363,Trapping Rain  Water,42,Trapping Rain Water,407,Trapping Rain  Water II
+364,Trapping Rain  Water II,407,Trapping Rain  Water II,42,Trapping Rain Water
+365,Count 1 in Binary,338,Counting Bits,742,Closest  Leaf in a Binary Tree
+366,Fibonacci,,,,
+367,Expression Tree  Build,,,,
+368,Expression  Evaluation,10,Regular  Expression Matching,282,Expression Add  Operators
+369,Convert  Expression to Polish Notation,,,,
+370,Convert  Expression to Reverse Polish Notation,150,Evaluate  Reverse Polish Notation,,
+371,Print  Numbers by Recursion,,,,
+372,Delete  Node in the Middle of Singly Linked List,237,Delete Node  in a Linked List,876,Middle of the  Linked List
+373,Partition  Array by Odd and Even,,,,
+374,Spiral Matrix,54,Spiral Matrix,59,Spiral Matrix II
+375,Clone Binary Tree,110,Balanced Binary  Tree,226,Invert Binary Tree
+376,Binary Tree Path  Sum,257,Binary Tree Paths,124,Binary Tree  Maximum Path Sum
+378,Convert  Binary Search Tree to Doubly Linked List,426,Convert  Binary Search Tree to Sorted Doubly Linked List,114,Flatten  Binary Tree to Linked List
+379,Reorder  array to construct the minimum number,,,,
+380,Intersection  of Two Linked Lists,160,Intersection  of Two Linked Lists,349,Intersection  of Two Arrays
+381,Spiral Matrix II,59,Spiral Matrix II,885,Spiral Matrix III
+382,Triangle Count,120,Triangle,,
+383,Container  With Most Water,11,Container With  Most Water,,
+384,Longest  Substring Without Repeating Characters,3,Longest  Substring Without Repeating Characters,395,Longest  Substring with At Least K Repeating Characters
+386,Longest  Substring with At Most K Distinct Characters,340,Longest  Substring with At Most K Distinct Characters,159,Longest  Substring with At Most Two Distinct Characters
+387,The Smallest  Difference,389,Find the Difference,,
+388,Permutation  Sequence,60,Permutation  Sequence,46,Permutations
+389,Valid Sudoku,36,Valid Sudoku,593,Valid Square
+390,Find Peak  Element II,162,Find Peak Element,503,Next Greater  Element II
+391,Number  of Airplanes in the Sky,806,Number  of Lines To Write String,434,Number of  Segments in a String
+392,House Robber,198,House Robber,213,House Robber II
+393,Best  Time to Buy and Sell Stock IV,188,Best  Time to Buy and Sell Stock IV,122,Best  Time to Buy and Sell Stock II
+394,Coins in a Line,149,Max Points on a  Line,322,Coin Change
+395,Coins in a Line II,149,Max Points on a  Line,219,Contains Duplicate  II
+396,Coins in a Line  III,149,Max Points on a  Line,220,Contains  Duplicate III
+397,Longest  Increasing Continuous Subsequence,300,Longest  Increasing Subsequence,594,Longest  Harmonious Subsequence
+398,Longest  Increasing Continuous subsequence II,300,Longest  Increasing Subsequence,674,Longest  Continuous Increasing Subsequence
+399,Nuts &  Bolts Problem,,,,
+400,Maximum Gap,164,Maximum Gap,670,Maximum Swap
+401,Kth  Smallest Number in Sorted Matrix,378,Kth  Smallest Element in a Sorted Matrix,668,Kth  Smallest Number in Multiplication Table
+402,Continuous  Subarray Sum,523,Continuous  Subarray Sum,525,Contiguous Array
+403,Continuous  Subarray Sum II,523,Continuous  Subarray Sum,525,Contiguous Array
+404,Subarray Sum II,560,Subarray Sum  Equals K,523,Continuous  Subarray Sum
+405,Submatrix Sum,,,,
+406,Minimum  Size Subarray Sum,209,Minimum Size  Subarray Sum,325,Maximum  Size Subarray Sum Equals k
+407,Plus One,66,Plus One,,
+408,Add Binary,67,Add Binary,868,Binary Gap
+411,Gray Code,89,Gray Code,,
+412,Candy,135,Candy,723,Candy Crush
+413,Reverse Integer,7,Reverse Integer,344,Reverse String
+414,Divide Two  Integers,29,Divide Two Integers,371,Sum of Two Integers
+415,Valid Palindrome,125,Valid Palindrome,680,Valid Palindrome II
+417,Valid Number,65,Valid Number,9,Palindrome Number
+418,Integer to Roman,12,Integer to Roman,397,Integer Replacement
+419,Roman to Integer,13,Roman to Integer,371,Sum of Two Integers
+420,Count and Say,38,Count and Say,327,Count of Range Sum
+421,Simplify Path,71,Simplify Path,,
+422,Length of Last  Word,58,Length of Last Word,,
+423,Valid Parentheses,20,Valid Parentheses,32,Longest Valid  Parentheses
+424,Evaluate  Reverse Polish Notation,150,Evaluate  Reverse Polish Notation,399,Evaluate Division
+425,Letter  Combinations of a Phone Number,17,Letter  Combinations of a Phone Number,,
+426,Restore IP  Addresses,93,Restore IP  Addresses,468,Validate IP Address
+427,Generate  Parentheses,22,Generate  Parentheses,20,Valid Parentheses
+428,"Pow(x, n)",50,"Pow(x, n)",,
+430,Scramble String,87,Scramble String,796,Rotate String
+431,Connected  Component in Undirected Graph,323,Number  of Connected Components in an Undirected Graph,,
+432,Find  the Weak Connected Component in the Directed Graph,323,Number  of Connected Components in an Undirected Graph,,
+433,Number of Islands,200,Number of Islands,305,Number of Islands  II
+434,Number of  Islands II,305,Number of Islands  II,200,Number of Islands
+435,Post Office  Problem,,,,
+436,Maximal Square,221,Maximal Square,593,Valid Square
+437,Copy Books,,,,
+438,Copy Books II,,,,
+439,Segment Tree  Build II,,,,
+440,Backpack III,,,,
+442,Implement Trie,28,Implement strStr(),208,Implement  Trie (Prefix Tree)
+443,Two Sum  - Greater than target,744,Find  Smallest Letter Greater Than Target,,
+445,Cosine Similarity,734,Sentence Similarity,737,Sentence  Similarity II
+447,Search  in a Big Sorted Array,33,Search in  Rotated Sorted Array,81,Search  in Rotated Sorted Array II
+448,Inorder  Successor in Binary Search Tree,285,Inorder  Successor in BST,255,Verify  Preorder Sequence in Binary Search Tree
+450,Reverse Nodes  in k-Group,25,Reverse Nodes in  k-Group,151,Reverse Words  in a String
+451,Swap Nodes in  Pairs,24,Swap Nodes in Pairs,,
+452,Remove  Linked List Elements,203,Remove  Linked List Elements,206,Reverse Linked List
+453,Flatten  Binary Tree to Linked List,114,Flatten  Binary Tree to Linked List,430,Flatten  a Multilevel Doubly Linked List
+454,Rectangle Area,223,Rectangle Area,850,Rectangle Area II
+457,Classical  Binary Search,704,Binary Search,669,Trim a Binary  Search Tree
+458,Last Position  of Target,830,Positions of  Large Groups,,
+459,Closest  Number in Sorted Array,540,Single  Element in a Sorted Array,88,Merge Sorted Array
+460,K  Closest Numbers In Sorted Array,,,,
+461,Kth  Smallest Numbers in Unsorted Array,378,Kth  Smallest Element in a Sorted Matrix,668,Kth  Smallest Number in Multiplication Table
+462,Total  Occurrence of Target,,,,
+463,Sort Integer,13,Roman to Integer,7,Reverse Integer
+464,Sort Integers II,371,Sum of Two Integers,13,Roman to Integer
+465,Kth  Smallest Sum In Two Sorted Arrays,378,Kth  Smallest Element in a Sorted Matrix,4,Median of  Two Sorted Arrays
+466,Count Linked  List Nodes,382,Linked List  Random Node,817,Linked List  Components
+469,Identical  Binary Tree,226,Invert Binary Tree,655,Print Binary Tree
+471,Top K Frequent  Words,692,Top K Frequent  Words,347,Top K Frequent  Elements
+472,Binary Tree  Path Sum III,257,Binary Tree Paths,124,Binary Tree  Maximum Path Sum
+473,Add and Search  Word,211,Add  and Search Word - Data structure design,,
+474,Lowest  Common Ancestor II,236,Lowest  Common Ancestor of a Binary Tree,235,Lowest  Common Ancestor of a Binary Search Tree
+475,Binary  Tree Maximum Path Sum II,124,Binary Tree  Maximum Path Sum,257,Binary Tree Paths
+476,Stone Game,877,Stone Game,174,Dungeon Game
+477,Surrounded Regions,130,Surrounded Regions,,
+479,Second Max of  Array,,,,
+480,Binary Tree Paths,257,Binary Tree Paths,563,Binary Tree Tilt
+484,Swap Two  Integers in Array,371,Sum of Two Integers,,
+486,Merge k Sorted  Arrays,88,Merge Sorted Array,23,Merge k Sorted  Lists
+487,Name Deduplication,,,,
+488,Happy Number,202,Happy Number,263,Ugly Number
+491,Palindrome Number,9,Palindrome Number,65,Valid Number
+494,Implement  Stack by Two Queues,225,Implement  Stack using Queues,,
+495,Implement Stack,28,Implement strStr(),225,Implement  Stack using Queues
+496,Toy Factory,,,,
+497,Shape Factory,,,,
+498,Parking Lot,86,Partition List,,
+499,Word Count  (Map Reduce),,,,
+500,Inverted Index,57,Insert Interval,,
+501,Mini Twitter,355,Design Twitter,385,Mini Parser
+502,Mini Cassandra,,,,
+503,Anagram (Map  Reduce),,,,
+504,Inverted  Index (Map Reduce),,,,
+505,Web Logger,,,,
+507,Wiggle Sort II,324,Wiggle Sort II,280,Wiggle Sort
+508,Wiggle Sort,280,Wiggle Sort,324,Wiggle Sort II
+509,Mini Yelp,385,Mini Parser,,
+510,Maximal Rectangle,85,Maximal Rectangle,221,Maximal Square
+511,Swap  Two Nodes in Linked List,237,Delete Node  in a Linked List,707,Design Linked List
+512,Decode Ways,91,Decode Ways,639,Decode Ways II
+513,Perfect Squares,279,Perfect Squares,367,Valid Perfect  Square
+514,Paint Fence,276,Paint Fence,256,Paint House
+515,Paint House,256,Paint House,265,Paint House II
+516,Paint House II,265,Paint House II,256,Paint House
+517,Ugly Number,263,Ugly Number,264,Ugly Number II
+518,Super Ugly Number,313,Super Ugly Number,263,Ugly Number
+519,Consistent Hashing,,,,
+520,Consistent  Hashing II,,,,
+521,Remove  Duplicate Numbers in Array,26,Remove  Duplicates from Sorted Array,316,Remove  Duplicate Letters
+522,Tiny Url II,,,,
+523,Url Parser,385,Mini Parser,,
+524,Left Pad,,,,
+525,Mini Uber,385,Mini Parser,268,Missing Number
+526,Load Balancer,,,,
+527,Trie Serialization,,,,
+528,Flatten  Nested List Iterator,341,Flatten  Nested List Iterator,,
+529,Geohash,,,,
+530,Geohash II,,,,
+531,Six Degrees,,,,
+532,Reverse Pairs,493,Reverse Pairs,190,Reverse Bits
+533,Two Sum -  Closest to target,,,,
+534,House Robber II,213,House Robber II,337,House Robber III
+535,House Robber III,337,House Robber III,213,House Robber II
+538,Memcache,,,,
+539,Move Zeroes,283,Move Zeroes,474,Ones and Zeroes
+540,Zigzag Iterator,281,Zigzag Iterator,284,Peeking Iterator
+541,Zigzag Iterator II,281,Zigzag Iterator,284,Peeking Iterator
+543,Kth Largest  in N Arrays,215,Kth  Largest Element in an Array,532,K-diff Pairs in  an Array
+544,Top k Largest  Numbers,179,Largest Number,165,Compare Version  Numbers
+545,Top k  Largest Numbers II,179,Largest Number,137,Single Number II
+547,Intersection  of Two Arrays,349,Intersection  of Two Arrays,350,Intersection  of Two Arrays II
+548,Intersection  of Two Arrays II,350,Intersection  of Two Arrays II,349,Intersection  of Two Arrays
+549,Top  K Frequent Words (Map Reduce),692,Top K Frequent  Words,347,Top K Frequent  Elements
+550,Top K  Frequent Words II,692,Top K Frequent  Words,347,Top K Frequent  Elements
+551,Nested List  Weight Sum,339,Nested List  Weight Sum,364,Nested List  Weight Sum II
+552,Create Maximum  Number,321,Create Maximum  Number,414,Third Maximum  Number
+553,Bomb Enemy,361,Bomb Enemy,,
+555,Counting Bloom  Filter,338,Counting Bits,,
+556,Standard Bloom  Filter,,,,
+558,Sliding  Window Matrix Maximum,239,Sliding Window  Maximum,480,Sliding Window  Median
+559,Trie Service,,,,
+560,Friendship Service,547,Friend Circles,,
+562,Backpack IV,,,,
+563,Backpack V,,,,
+564,Backpack VI,,,,
+565,Heart Beat,,,,
+566,GFS Client,,,,
+569,Add Digits,258,Add Digits,788,Rotated Digits
+570,Find the  Missing Number II,268,Missing Number,287,Find the  Duplicate Number
+573,Build Post  Office II,,,,
+574,Build Post Office,,,,
+575,Expression Expand,809,Expressive Words,,
+577,Merge K  Sorted Interval Lists,23,Merge k Sorted  Lists,21,Merge Two Sorted  Lists
+578,Lowest  Common Ancestor III,236,Lowest  Common Ancestor of a Binary Tree,235,Lowest  Common Ancestor of a Binary Search Tree
+581,Longest  Repeating Subsequence,300,Longest  Increasing Subsequence,516,Longest  Palindromic Subsequence
+582,Word Break II,140,Word Break II,139,Word Break
+584,Drop Eggs II,,,,
+585,Maximum  Number in Mountain Sequence,792,Number  of Matching Subsequences,,
+586,Sqrt(x) II,69,Sqrt(x),,
+587,Two Sum -  Unique pairs,,,,
+588,Partition  Equal Subset Sum,416,Partition  Equal Subset Sum,698,Partition  to K Equal Sum Subsets
+589,Connecting Graph,133,Clone Graph,,
+590,Connecting Graph  II,133,Clone Graph,850,Rectangle Area II
+591,Connecting Graph  III,133,Clone Graph,,
+593,Stone Game II,877,Stone Game,45,Jump Game II
+594,strStr II,,,,
+595,Binary  Tree Longest Consecutive Sequence,298,Binary  Tree Longest Consecutive Sequence,549,Binary  Tree Longest Consecutive Sequence II
+596,Minimum Subtree,310,Minimum Height  Trees,76,Minimum Window  Substring
+597,Subtree  with Maximum Average,,,,
+598,Zombie in Matrix,519,Random Flip Matrix,766,Toeplitz Matrix
+599,Insert  into a Cyclic Sorted List,708,Insert  into a Cyclic Sorted List,147,Insertion Sort List
+600,Smallest  Rectangle Enclosing Black Pixels,302,Smallest  Rectangle Enclosing Black Pixels,,
+601,Flatten 2D Vector,251,Flatten 2D Vector,,
+602,Russian Doll  Envelopes,354,Russian Doll  Envelopes,,
+603,Largest  Divisible Subset,368,Largest  Divisible Subset,333,Largest BST Subtree
+604,Window Sum,,,,
+605,Sequence  Reconstruction,444,Sequence  Reconstruction,406,Queue  Reconstruction by Height
+606,Kth Largest  Element II,215,Kth  Largest Element in an Array,703,Kth  Largest Element in a Stream
+607,Two  Sum - Data structure design,170,Two  Sum III - Data structure design,211,Add  and Search Word - Data structure design
+608,Two  Sum - Input array is sorted,167,Two  Sum II - Input array is sorted,653,Two Sum IV -  Input is a BST
+609,Two  Sum - Less than or equal to target,,,,
+610,Two  Sum - Difference equals to target,,,,
+611,Knight Shortest  Path,,,,
+612,K Closest Points,658,Find K Closest  Elements,681,Next Closest Time
+613,High Five,,,,
+614,Binary  Tree Longest Consecutive Sequence II,549,Binary  Tree Longest Consecutive Sequence II,298,Binary  Tree Longest Consecutive Sequence
+615,Course Schedule,207,Course Schedule,210,Course Schedule II
+616,Course Schedule II,210,Course Schedule II,630,Course Schedule III
+617,Maximum  Average Subarray,643,Maximum  Average Subarray I,644,Maximum  Average Subarray II
+618,Search Graph Nodes,,,,
+619,Binary  Tree Longest Consecutive Sequence III,549,Binary  Tree Longest Consecutive Sequence II,298,Binary  Tree Longest Consecutive Sequence
+620,Maximum Subarray  IV,53,Maximum Subarray,643,Maximum  Average Subarray I
+621,Maximum Subarray V,53,Maximum Subarray,643,Maximum  Average Subarray I
+622,Frog Jump,403,Frog Jump,,
+623,K Edit Distance,72,Edit Distance,161,One Edit Distance
+624,Remove Substrings,344,Reverse String,796,Rotate String
+625,Partition Array II,330,Patching Array,763,Partition Labels
+627,Longest Palindrome,409,Longest Palindrome,214,Shortest Palindrome
+629,Minimum  Spanning Tree,310,Minimum Height  Trees,111,Minimum  Depth of Binary Tree
+630,Knight  Shortest Path II,,,,
+631,Maximal Square II,221,Maximal Square,644,Maximum  Average Subarray II
+632,Binary Tree  Maximum Node,124,Binary Tree  Maximum Path Sum,563,Binary Tree Tilt
+633,Find the  Duplicate Number,287,Find the  Duplicate Number,652,Find Duplicate  Subtrees
+634,Word Squares,425,Word Squares,422,Valid Word Square
+635,Boggle Game,877,Stone Game,174,Dungeon Game
+636,132 Pattern,456,132 Pattern,290,Word Pattern
+637,Valid Word  Abbreviation,408,Valid Word  Abbreviation,527,Word Abbreviation
+638,Strings  Homomorphism,,,,
+639,Word Abbreviation,527,Word Abbreviation,408,Valid Word  Abbreviation
+640,Edit Distance II,72,Edit Distance,161,One Edit Distance
+641,Missing Ranges,163,Missing Ranges,268,Missing Number
+642,Sliding  Window Average from Data Stream,346,Moving  Average from Data Stream,295,Find Median  from Data Stream
+643,System  Longest File Path,687,Longest Univalue  Path,388,Longest  Absolute File Path
+644,Strobogrammatic  Number,246,Strobogrammatic  Number,247,Strobogrammatic  Number II
+645,Find the Celebrity,277,Find the Celebrity,,
+646,First  Position Unique Character,387,First  Unique Character in a String,,
+647,Substring Anagrams,49,Group Anagrams,,
+648,Unique Word  Abbreviation,288,Unique Word  Abbreviation,411,Minimum  Unique Word Abbreviation
+649,Binary Tree  Upside Down,156,Binary Tree  Upside Down,199,Binary Tree  Right Side View
+650,Find  Leaves of Binary Tree,366,Find Leaves  of Binary Tree,543,Diameter of  Binary Tree
+651,Binary  Tree Vertical Order Traversal,314,Binary  Tree Vertical Order Traversal,102,Binary  Tree Level Order Traversal
+652,Factorization,625,Minimum  Factorization,254,Factor Combinations
+653,Add Operators,282,Expression Add  Operators,,
+654,Sparse  Matrix Multiplication,311,Sparse  Matrix Multiplication,537,Complex  Number Multiplication
+655,Big Integer  Addition,370,Range Addition,598,Range Addition II
+656,Big  Integer multiplication,537,Complex  Number Multiplication,,
+657,Insert  Delete GetRandom O(1),380,Insert  Delete GetRandom O(1),381,Insert  Delete GetRandom O(1) - Duplicates allowed
+658,Swap  Without Extra Variable (Only C++),,,,
+659,Encode and  Decode Strings,271,Encode and  Decode Strings,535,Encode and  Decode TinyURL
+660,Read  N Characters Given Read4 II - Call multiple times,158,Read  N Characters Given Read4 II - Call multiple times,157,Read N  Characters Given Read4
+661,Convert  BST to Greater Tree,538,Convert BST  to Greater Tree,109,Convert  Sorted List to Binary Search Tree
+662,Guess Number Game,374,Guess  Number Higher or Lower,,
+663,Walls and Gates,286,Walls and Gates,771,Jewels and Stones
+664,Counting Bits,338,Counting Bits,749,Contain Virus
+665,Range  Sum Query 2D - Immutable,304,Range Sum  Query 2D - Immutable,303,Range Sum  Query - Immutable
+666,Guess Number  Game II,375,Guess  Number Higher or Lower II,45,Jump Game II
+667,Longest  Palindromic Subsequence,516,Longest  Palindromic Subsequence,5,Longest  Palindromic Substring
+668,Ones and Zeroes,474,Ones and Zeroes,73,Set Matrix Zeroes
+669,Coin Change,322,Coin Change,518,Coin Change 2
+670,Predict the Winner,587,Erect the Fence,,
+671,Rotate Words,648,Replace Words,61,Rotate List
+676,Decode Ways II,639,Decode Ways II,91,Decode Ways
+677,Number of Big  Islands,200,Number of Islands,305,Number of Islands  II
+678,Convert Palindrome,409,Longest Palindrome,214,Shortest Palindrome
+679,Unique Paths III,63,Unique Paths II,62,Unique Paths
+680,Split String,776,Split BST,87,Scramble String
+681,First  Missing Prime Number,41,First Missing  Positive,268,Missing Number
+683,Word Break III,140,Word Break II,139,Word Break
+684,Missing String,163,Missing Ranges,268,Missing Number
+685,First  Unique Number In Stream,387,First  Unique Character in a String,,
+688,The Number In  Words,,,,
+689,Two Sum - BST  edtion,,,,
+690,Factorial,,,,
+691,BST Swapped Nodes,,,,
+692,Sliding  Window Unique Elements Sum,239,Sliding Window  Maximum,480,Sliding Window  Median
+696,Course Schedule  III,630,Course Schedule III,210,Course Schedule II
+697,Check Sum  of Square Numbers,633,Sum of Square  Numbers,,
+698,Maximum  Difference in Arrays,624,Maximum  Distance in Arrays,530,Minimum  Absolute Difference in BST
+699,Check Sum of K  Primes,,,,
+700,Cutting a Rod,,,,
+701,Trim Binary  Search Tree,669,Trim a Binary  Search Tree,96,Unique Binary  Search Trees
+702,Concatenated  String with Uncommon Characters of Two Strings,,,,
+703,Folding Array,330,Patching Array,665,Non-decreasing Array
+704,Lights Switcher,319,Bulb Switcher,,
+706,Binary Time,563,Binary Tree Tilt,704,Binary Search
+707,Balance Graph,133,Clone Graph,,
+717,Tree  Longest Path With Same Value,,,,
+718,Repeat String,796,Rotate String,686,Repeated String  Match
+719,Calculate  Maximum Value,321,Create Maximum  Number,,
+720,Rearrange  a String With Integers,,,,
+721,Next Sparse Number,507,Perfect Number,179,Largest Number
+722,Maximum Subarray  VI,53,Maximum Subarray,643,Maximum  Average Subarray I
+723,Rotate Bits - Left,788,Rotated Digits,61,Rotate List
+724,Minimum Partition,625,Minimum  Factorization,433,Minimum Genetic  Mutation
+725,Boolean  Parenthesization,678,Valid  Parenthesis String,,
+726,Check Full  Binary Tree,894,All  Possible Full Binary Trees,226,Invert Binary Tree
+727,Chinese  Remainder Theorem,,,,
+728,Three Distinct  Factors,823,Binary Trees  With Factors,,
+729,Last  Digit By Factorial Divide,,,,
+730,Sum of All Subsets,891,Sum of  Subsequence Widths,,
+734,Number  of Subsequences of Form a^i b^j c^k,792,Number  of Matching Subsequences,,
+735,Replace  With Greatest From Right,,,,
+737,Find Elements  in Matrix,438,Find All  Anagrams in a String,162,Find Peak Element
+738,Count  Different Palindromic Subsequences,730,Count  Different Palindromic Subsequences,516,Longest  Palindromic Subsequence
+739,Compute 24 Game,679,24 Game,837,New 21 Game
+740,Coin Change II,518,Coin Change 2,322,Coin Change
+741,Calculate  Maximum Value II,321,Create Maximum  Number,,
+742,Digit Divide  Numbers,306,Additive Number,728,Self Dividing  Numbers
+743,Monotone  Increasing Digits,738,Monotone  Increasing Digits,,
+744,Sum  of first K even-length Palindrome numbers,,,,
+745,Palindromic Ranges,647,Palindromic  Substrings,336,Palindrome Pairs
+749,John's  backyard garden,,,,
+750,Portal,,,,
+751,John's business,,,,
+752,Rogue Knight Sven,,,,
+761,Smallest Subset,632,Smallest Range,483,Smallest Good Base
+762,Longest  Common Subsequence II,522,Longest  Uncommon Subsequence II,521,Longest  Uncommon Subsequence I
+763,Hex Conversion,6,ZigZag Conversion,,
+764,Calculate  Circumference And Area,,,,
+765,Valid Triangle,611,Valid Triangle  Number,120,Triangle
+766,Leap Year,,,,
+767,Reverse Array,493,Reverse Pairs,344,Reverse String
+768,Yang Hui Triangle,120,Triangle,,
+769,Spiral Array,54,Spiral Matrix,,
+770,Maximum and  Minimum,164,Maximum Gap,,
+772,Group Anagrams,49,Group Anagrams,,
+774,Repeated DNA,187,Repeated DNA  Sequences,,
+775,Palindrome Pairs,336,Palindrome Pairs,9,Palindrome Number
+776,Strobogrammatic  Number II,247,Strobogrammatic  Number II,248,Strobogrammatic  Number III
+777,Valid Perfect  Square,367,Valid Perfect  Square,279,Perfect Squares
+778,Pacific  Atlantic Water Flow,417,Pacific  Atlantic Water Flow,,
+779,Generalized  Abbreviation,320,Generalized  Abbreviation,527,Word Abbreviation
+782,AND and OR,,,,
+783,Minimum Risk Path,64,Minimum Path Sum,,
+784,The  Longest Common Prefix II,14,Longest Common  Prefix,522,Longest  Uncommon Subsequence II
+785,Maximum  Weighted Sum Path,646,Maximum  Length of Pair Chain,718,Maximum  Length of Repeated Subarray
+787,The Maze,490,The Maze,505,The Maze II
+788,The Maze II,505,The Maze II,499,The Maze III
+789,The Maze III,499,The Maze III,505,The Maze II
+790,Parser,385,Mini Parser,,
+791,Merge Number,507,Perfect Number,179,Largest Number
+792,Kth Prime Number,9,Palindrome Number,878,Nth Magical Number
+793,Intersection  of Arrays,349,Intersection  of Two Arrays,350,Intersection  of Two Arrays II
+796,Open the Lock,752,Open the Lock,,
+797,Reach a Number,754,Reach a Number,507,Perfect Number
+798,Backpack VII,,,,
+799,Backpack VIII,,,,
+800,Backpack IX,,,,
+801,Backpack X,,,,
+803,Shortest  Distance from All Buildings,317,Shortest  Distance from All Buildings,821,Shortest  Distance to a Character
+804,Number  of Distinct Islands II,711,Number of  Distinct Islands II,694,Number of  Distinct Islands
+805,Maximum  Association Set,568,Maximum Vacation  Days,,
+806,Buy Fruits,,,,
+807,Palindrome  Number II,9,Palindrome Number,137,Single Number II
+808,Movie Network,,,,
+813,Find Anagram  Mappings,760,Find Anagram  Mappings,438,Find All  Anagrams in a String
+814,Shortest  Path in Undirected Graph,214,Shortest Palindrome,,
+817,Range Sum  Query 2D - Mutable,308,Range Sum  Query 2D - Mutable,307,Range Sum Query  - Mutable
+818,Subset With Target,,,,
+819,Word Sorting,394,Decode String,758,Bold Words in  String
+820,Rectangle,223,Rectangle Area,836,Rectangle Overlap
+821,Time Intersection,558,Quad Tree  Intersection,356,Line Reflection
+822,Reverse Order  Storage,344,Reverse String,151,Reverse Words  in a String
+823,Input Stream,,,,
+824,Single Number IV,137,Single Number II,260,Single Number III
+825,Bus Station,134,Gas Station,46,Permutations
+826,Computer  Maintenance,,,,
+828,Word Pattern,290,Word Pattern,291,Word Pattern II
+829,Word Pattern II,291,Word Pattern II,290,Word Pattern
+830,String Sort,280,Wiggle Sort,443,String Compression
+831,3Sum II,454,4Sum II,15,3Sum
+832,Count Negative  Number,829,Consecutive  Numbers Sum,306,Additive Number
+833,Process Sequence,392,Is Subsequence,491,Increasing  Subsequences
+834,Remove  Duplicate Letters,316,Remove  Duplicate Letters,83,Remove  Duplicates from Sorted List
+835,Hamming Distance,461,Hamming Distance,477,Total Hamming  Distance
+836,Partition  to K Equal Sum Subsets,698,Partition  to K Equal Sum Subsets,416,Partition  Equal Subset Sum
+837,Palindromic  Substrings,647,Palindromic  Substrings,5,Longest  Palindromic Substring
+838,Subarray Sum  Equals K,560,Subarray Sum  Equals K,325,Maximum  Size Subarray Sum Equals k
+839,Merge  Two Sorted Interval Lists,21,Merge Two Sorted  Lists,23,Merge k Sorted  Lists
+840,Range Sum  Query - Mutable,307,Range Sum Query  - Mutable,308,Range Sum  Query 2D - Mutable
+841,String Replace,397,Integer Replacement,,
+842,Origami,,,,
+843,Digital Flip,,,,
+844,Number Pair  Statistics,,,,
+845,Greatest  Common Divisor,819,Most Common Word,,
+846,Multi-keyword Sort,,,,
+848,Minimize  Max Distance to Gas Station,774,Minimize  Max Distance to Gas Station,849,Maximize  Distance to Closest Person
+849,Basic Calculator  III,772,Basic Calculator  III,227,Basic Calculator II
+851,Pour Water,755,Pour Water,,
+853,Number Of  Corner Rectangles,750,Number Of  Corner Rectangles,447,Number of  Boomerangs
+856,Sentence  Similarity,734,Sentence Similarity,737,Sentence  Similarity II
+857,Minimum  Window Subsequence,727,Minimum  Window Subsequence,76,Minimum Window  Substring
+858,Candy Crush,723,Candy Crush,135,Candy
+860,Number of  Distinct Islands,694,Number of  Distinct Islands,711,Number of  Distinct Islands II
+861,K Empty Slots,683,K Empty Slots,,
+862,Next Closest Time,681,Next Closest Time,,
+863,Binary Tree  Path Sum IV,257,Binary Tree Paths,124,Binary Tree  Maximum Path Sum
+864,Equal Tree  Partition,663,Equal Tree  Partition,131,Palindrome  Partitioning
+865,Remove 9,660,Remove 9,546,Remove Boxes
+866,Coin Path,656,Coin Path,322,Coin Change
+867,4 Keys Keyboard,651,4 Keys Keyboard,650,2 Keys Keyboard
+868,Maximum  Average Subarray I,643,Maximum  Average Subarray I,644,Maximum  Average Subarray II
+869,Find  the Derangement of An Array,634,Find  the Derangement of An Array,697,Degree of an Array
+871,Minimum  Factorization,625,Minimum  Factorization,433,Minimum Genetic  Mutation
+872,Kill Process,582,Kill Process,,
+873,Squirrel  Simulation,573,Squirrel Simulation,,
+874,Maximum  Vacation Days,568,Maximum Vacation  Days,625,Minimum  Factorization
+875,Longest  Line of Consecutive One in Matrix,562,Longest  Line of Consecutive One in Matrix,128,Longest  Consecutive Sequence
+876,Split  Concatenated Strings,555,Split  Concatenated Strings,472,Concatenated Words
+877,Split  Array with Equal Sum,548,Split Array  with Equal Sum,410,Split Array  Largest Sum
+878,Boundary of  Binary Tree,545,Boundary of  Binary Tree,543,Diameter of  Binary Tree
+879,Output Contest  Matches,544,Output Contest  Matches,,
+880,Construct  Binary Tree from String,536,Construct  Binary Tree from String,105,Construct  Binary Tree from Preorder and Inorder Traversal
+883,Max  Consecutive Ones II,487,Max Consecutive  Ones II,485,Max Consecutive  Ones
+884,Find Permutation,484,Find Permutation,266,Palindrome  Permutation
+885,Encode  String with Shortest Length,471,Encode  String with Shortest Length,,
+886,Convex Polygon,469,Convex Polygon,,
+887,Ternary  Expression Parser,439,Ternary  Expression Parser,10,Regular  Expression Matching
+888,Valid Word Square,422,Valid Word Square,593,Valid Square
+889,Sentence  Screen Fitting,418,Sentence Screen  Fitting,734,Sentence Similarity
+891,Valid Palindrome  II,680,Valid Palindrome II,125,Valid Palindrome
+892,Alien Dictionary,269,Alien Dictionary,676,Implement  Magic Dictionary
+895,Friend Request,547,Friend Circles,,
+896,Prime Product,866,Prime Palindrome,479,Largest  Palindrome Product
+897,Island City,463,Island Perimeter,,
+898,Leftmost One,,,,
+900,Closest  Binary Search Tree Value,270,Closest  Binary Search Tree Value,272,Closest  Binary Search Tree Value II
+901,Closest  Binary Search Tree Value II,272,Closest  Binary Search Tree Value II,270,Closest  Binary Search Tree Value
+902,Kth  Smallest Element in a BST,230,Kth  Smallest Element in a BST,378,Kth  Smallest Element in a Sorted Matrix
+903,Range Addition,370,Range Addition,598,Range Addition II
+904,Plus One Linked  List,369,Plus One Linked  List,234,Palindrome Linked  List
+906,Sort  Transformed Array,360,Sort Transformed  Array,88,Merge Sorted Array
+908,Line Reflection,356,Line Reflection,858,Mirror Reflection
+909,Android  Unlock Patterns,351,Android Unlock  Patterns,,
+911,Maximum  Size Subarray Sum Equals k,325,Maximum  Size Subarray Sum Equals k,209,Minimum Size  Subarray Sum
+912,Best Meeting Point,296,Best Meeting Point,780,Reaching Points
+913,Flip Game II,294,Flip Game II,293,Flip Game
+914,Flip Game,293,Flip Game,294,Flip Game II
+915,Inorder  Predecessor in BST,285,Inorder  Successor in BST,,
+916,Palindrome  Permutation,266,Palindrome  Permutation,267,Palindrome  Permutation II
+917,Palindrome  Permutation II,267,Palindrome  Permutation II,266,Palindrome  Permutation
+918,3Sum Smaller,259,3Sum Smaller,,
+919,Meeting Rooms II,253,Meeting Rooms II,252,Meeting Rooms
+920,Meeting Rooms,252,Meeting Rooms,253,Meeting Rooms II
+921,Count  Univalue Subtrees,250,Count Univalue  Subtrees,696,Count Binary  Substrings
+927,Reverse  Words in a String II,186,Reverse  Words in a String II,557,Reverse  Words in a String III
+932,Friends  Within Three Jumps,,,,
+933,Tuple Multiply,,,,
+934,Unlock Problem,,,,
+935,Cartesian Product,479,Largest  Palindrome Product,,
+941,Sliding Puzzle,773,Sliding Puzzle,,
+943,Range Sum  Query - Immutable,303,Range Sum  Query - Immutable,304,Range Sum  Query 2D - Immutable
+944,Maximum Submatrix,53,Maximum Subarray,670,Maximum Swap
+945,Task Scheduler,621,Task Scheduler,207,Course Schedule
+946,233 Matrix,542,01 Matrix,54,Spiral Matrix
+947,Matrix Power  Series,73,Set Matrix Zeroes,,
+949,Fibonacci II,,,,
+950,Sliding Puzzle III,773,Sliding Puzzle,,
+951,Rearrange,,,,
+952,Digital Problem,,,,
+953,The  Biggest Score On The Tree,,,,
+954,Insert  Delete GetRandom O(1) - Duplicates allowed,381,Insert  Delete GetRandom O(1) - Duplicates allowed,380,Insert  Delete GetRandom O(1)
+955,Implement  Queue by Circular Array,232,Implement  Queue using Stacks,,
+956,Data Segmentation,134,Gas Station,649,Dota2 Senate
+957,Radar Detection,396,Rotate Function,,
+958,Palindrome  Data Stream,295,Find Median  from Data Stream,336,Palindrome Pairs
+959,K Spaced Array  Sorting,,,,
+960,First  Unique Number in a Stream II,387,First  Unique Character in a String,,
+969,Longest  Repeating Substring,5,Longest  Palindromic Substring,300,Longest  Increasing Subsequence
+970,Big Business,,,,
+971,Surplus Value  Backpack,,,,
+972,Deliver The  Message,,,,
+973,1-bit and  2-bit Characters,717,1-bit and 2-bit  Characters,,
+974,01 Matrix,542,01 Matrix,54,Spiral Matrix
+975,2 Keys Keyboard,650,2 Keys Keyboard,651,4 Keys Keyboard
+976,4Sum II,454,4Sum II,18,4Sum
+977,Base 7,504,Base 7,,
+978,Basic Calculator,224,Basic Calculator,770,Basic Calculator IV
+979,Additive Number,306,Additive Number,2,Add Two Numbers
+980,Basic Calculator  II,227,Basic Calculator II,772,Basic Calculator  III
+981,Basic Calculator  IV,770,Basic Calculator IV,227,Basic Calculator II
+982,Arithmetic Slices,413,Arithmetic Slices,446,Arithmetic  Slices II - Subsequence
+983,Baseball Game,682,Baseball Game,,
+984,Arithmetic  Slices II - Subsequence,446,Arithmetic  Slices II - Subsequence,413,Arithmetic Slices
+985,Can I Win,464,Can I Win,,
+986,Battleships in  a Board,419,Battleships in a  Board,,
+987,Binary  Number with Alternating Bits,693,Binary  Number with Alternating Bits,,
+988,Arranging Coins,441,Arranging Coins,780,Reaching Points
+989,Array Nesting,565,Array Nesting,561,Array Partition I
+990,Beautiful  Arrangement,526,Beautiful  Arrangement,667,Beautiful  Arrangement II
+991,Bulb Switcher,319,Bulb Switcher,672,Bulb Switcher II
+992,Beautiful  Arrangement II,667,Beautiful  Arrangement II,526,Beautiful  Arrangement
+993,Array Partition I,561,Array Partition I,86,Partition List
+994,Contiguous Array,525,Contiguous Array,523,Continuous  Subarray Sum
+995,Best  Time to Buy and Sell Stock with Cooldown,309,Best  Time to Buy and Sell Stock with Cooldown,121,Best  Time to Buy and Sell Stock
+1000,Best  Time to Buy and Sell Stock with Transaction Fee,714,Best  Time to Buy and Sell Stock with Transaction Fee,309,Best  Time to Buy and Sell Stock with Cooldown
+1001,Asteroid Collision,735,Asteroid Collision,,
+1002,Bus Routes,815,Bus Routes,,
+1003,Binary Tree  Pruning,814,Binary Tree Pruning,563,Binary Tree Tilt
+1005,Largest  Triangle Area,812,Largest Triangle  Area,223,Rectangle Area
+1006,Subdomain Visit  Count,811,Subdomain Visit  Count,,
+1007,Chalkboard XOR  Game,810,Chalkboard XOR Game,,
+1008,Expressive Words,809,Expressive Words,843,Guess the Word
+1010,Max  Increase to Keep City Skyline,807,Max  Increase to Keep City Skyline,,
+1011,Number  of Lines To Write String,806,Number  of Lines To Write String,434,Number of  Segments in a String
+1014,Bricks  Falling When Hit,803,Bricks Falling  When Hit,,
+1015,Find  Eventual Safe States,802,Find Eventual  Safe States,,
+1016,Minimum  Swaps To Make Sequences Increasing,801,Minimum  Swaps To Make Sequences Increasing,,
+1017,Similar RGB Color,800,Similar RGB Color,,
+1018,Champagne Tower,799,Champagne Tower,,
+1019,Smallest  Rotation with Highest Score,798,Smallest  Rotation with Highest Score,,
+1020,All  Paths From Source to Target,797,All  Paths From Source to Target,,
+1021,Number  of Subarrays with Bounded Maximum,795,Number  of Subarrays with Bounded Maximum,,
+1022,Valid  Tic-Tac-Toe State,794,Valid Tic-Tac-Toe  State,348,Design Tic-Tac-Toe
+1023,Preimage  Size of Factorial Zeroes Function,793,Preimage  Size of Factorial Zeroes Function,,
+1024,Number  of Matching Subsequences,792,Number  of Matching Subsequences,673,Number  of Longest Increasing Subsequence
+1026,Domino and  Tromino Tiling,790,Domino and  Tromino Tiling,,
+1027,Escape The Ghosts,789,Escape The Ghosts,,
+1028,Rotated Digits,788,Rotated Digits,61,Rotate List
+1029,Cheapest  Flights Within K Stops,787,Cheapest  Flights Within K Stops,,
+1030,K-th  Smallest Prime Fraction,786,K-th  Smallest Prime Fraction,719,Find  K-th Smallest Pair Distance
+1031,Is Graph Bipartite,785,Is Graph Bipartite,,
+1032,Letter Case  Permutation,784,Letter Case  Permutation,31,Next Permutation
+1033,Minimum  Distance Between BST Nodes,783,Minimum  Distance Between BST Nodes,624,Maximum  Distance in Arrays
+1034,Transform to  Chessboard,782,Transform to  Chessboard,,
+1035,Rabbits in Forest,781,Rabbits in Forest,,
+1036,Reaching Points,780,Reaching Points,296,Best Meeting Point
+1037,Global  and Local Inversions,775,Global and  Local Inversions,,
+1038,Jewels And Stones,771,Jewels and Stones,,
+1039,Max Chunks  To Make Sorted,769,Max Chunks To  Make Sorted,768,Max Chunks  To Make Sorted II
+1040,Max  Chunks To Make Sorted II,768,Max Chunks  To Make Sorted II,769,Max Chunks To  Make Sorted
+1042,Toeplitz Matrix,766,Toeplitz Matrix,54,Spiral Matrix
+1043,Couples Holding  Hands,765,Couples Holding  Hands,,
+1044,Largest Plus Sign,764,Largest Plus Sign,,
+1045,Partition Labels,763,Partition Labels,86,Partition List
+1046,Prime  Number of Set Bits in Binary Representation,762,Prime  Number of Set Bits in Binary Representation,,
+1047,Special Binary  String,761,Special Binary  String,696,Count Binary  Substrings
+1048,Set  Intersection Size At Least Two,757,Set  Intersection Size At Least Two,,
+1049,Pyramid  Transition Matrix,756,Pyramid  Transition Matrix,867,Transpose Matrix
+1051,Contain Virus,749,Contain Virus,338,Counting Bits
+1052,Shortest  Completing Word,748,Shortest  Completing Word,819,Most Common Word
+1054,Min Cost  Climbing Stairs,746,Min Cost  Climbing Stairs,70,Climbing Stairs
+1056,Find  Smallest Letter Greater Than Target,744,Find  Smallest Letter Greater Than Target,,
+1057,Network Delay Time,743,Network Delay Time,,
+1058,Cherry Pickup,741,Cherry Pickup,,
+1059,Delete and Earn,740,Delete and Earn,,
+1060,Daily Temperatures,739,Daily Temperatures,,
+1062,Flood Fill,733,Flood Fill,,
+1063,My Calendar III,732,My Calendar III,731,My Calendar II
+1064,My Calendar II,731,My Calendar II,732,My Calendar III
+1065,My Calendar I,729,My Calendar I,731,My Calendar II
+1066,Verify  Preorder Serialization of a Binary Tree,331,Verify  Preorder Serialization of a Binary Tree,255,Verify  Preorder Sequence in Binary Search Tree
+1068,Find Pivot Index,724,Find Pivot Index,398,Random Pick Index
+1069,Remove Comments,722,Remove Comments,27,Remove Element
+1070,Accounts Merge,721,Accounts Merge,,
+1071,Longest  Word in Dictionary,720,Longest Word  in Dictionary,524,Longest  Word in Dictionary through Deleting
+1074,Range Module,715,Range Module,,
+1075,Subarray  Product Less Than K,713,Subarray  Product Less Than K,,
+1076,Minimum  ASCII Delete Sum for Two Strings,712,Minimum  ASCII Delete Sum for Two Strings,599,Minimum  Index Sum of Two Lists
+1077,Falling Squares,699,Falling Squares,593,Valid Square
+1078,Degree of an Array,697,Degree of an Array,634,Find  the Derangement of An Array
+1079,Count Binary  Substrings,696,Count Binary  Substrings,5,Longest  Palindromic Substring
+1080,Max Area of Island,695,Max Area of Island,200,Number of Islands
+1081,Stickers to  Spell Word,691,Stickers to Spell  Word,,
+1083,Maximum  Sum of 3 Non-Overlapping Subarrays,689,Maximum  Sum of 3 Non-Overlapping Subarrays,643,Maximum  Average Subarray I
+1085,Longest  Univalue Path,687,Longest Univalue  Path,388,Longest  Absolute File Path
+1086,Repeated String  Match,686,Repeated String  Match,459,Repeated  Substring Pattern
+1087,Redundant  Connection II,685,Redundant  Connection II,684,Redundant  Connection
+1088,Redundant  Connection,684,Redundant  Connection,685,Redundant  Connection II
+1089,Valid  Parenthesis String,678,Valid  Parenthesis String,20,Valid Parentheses
+1092,Cut Off  Trees for Golf Event,675,Cut Off  Trees for Golf Event,,
+1093,Number  of Longest Increasing Subsequence,673,Number  of Longest Increasing Subsequence,300,Longest  Increasing Subsequence
+1094,Second  Minimum Node In a Binary Tree,671,Second  Minimum Node In a Binary Tree,111,Minimum  Depth of Binary Tree
+1095,Maximum Swap,670,Maximum Swap,164,Maximum Gap
+1097,Kth  Smallest Number in Multiplication Table,668,Kth  Smallest Number in Multiplication Table,537,Complex  Number Multiplication
+1099,Non-decreasing  Array,665,Non-decreasing Array,,
+1100,Strange Printer,664,Strange Printer,,
+1101,Maximum  Width of Binary Tree,662,Maximum  Width of Binary Tree,104,Maximum  Depth of Binary Tree
+1103,Split  Array into Consecutive Subsequences,659,Split  Array into Consecutive Subsequences,842,Split  Array into Fibonacci Sequence
+1104,Judge Route Circle,657,Judge Route Circle,,
+1105,Print Binary Tree,655,Print Binary Tree,226,Invert Binary Tree
+1106,Maximum Binary  Tree,654,Maximum Binary Tree,662,Maximum  Width of Binary Tree
+1109,Dota2 Senate,649,Dota2 Senate,,
+1110,Replace Words,648,Replace Words,,
+1112,Set Mismatch,645,Set Mismatch,,
+1113,Solve the Equation,640,Solve the Equation,,
+1114,Shopping Offers,638,Shopping Offers,,
+1116,Exclusive  Time of Functions,636,Exclusive  Time of Functions,,
+1117,Smallest Range,632,Smallest Range,483,Smallest Good Base
+1118,K Inverse Pairs  Array,629,K Inverse Pairs  Array,493,Reverse Pairs
+1119,Maximum  Product of Three Numbers,628,Maximum  Product of Three Numbers,318,Maximum  Product of Word Lengths
+1122,Add One Row to  Tree,623,Add One Row to Tree,,
+1126,Merge Two  Binary Trees,617,Merge Two Binary  Trees,543,Diameter of  Binary Tree
+1127,Add Bold Tag  in String,616,Add Bold Tag in  String,758,Bold Words in  String
+1132,Valid Triangle  Number,611,Valid Triangle  Number,65,Valid Number
+1134,Find  Duplicate File in System,609,Find  Duplicate File in System,652,Find Duplicate  Subtrees
+1137,Construct  String from Binary Tree,606,Construct  String from Binary Tree,742,Closest  Leaf in a Binary Tree
+1138,Can Place Flowers,605,Can Place Flowers,,
+1142,Non-negative  Integers without Consecutive Ones,600,Non-negative  Integers without Consecutive Ones,,
+1143,Minimum  Index Sum of Two Lists,599,Minimum  Index Sum of Two Lists,712,Minimum  ASCII Delete Sum for Two Strings
+1144,Range Addition II,598,Range Addition II,370,Range Addition
+1145,Longest  Harmonious Subsequence,594,Longest  Harmonious Subsequence,521,Longest  Uncommon Subsequence I
+1149,Valid Square,593,Valid Square,422,Valid Word Square
+1150,Fraction  Addition and Subtraction,592,Fraction  Addition and Subtraction,,
+1151,Tag Validator,591,Tag Validator,393,UTF-8 Validation
+1156,Delete  Operation for Two Strings,583,Delete  Operation for Two Strings,712,Minimum  ASCII Delete Sum for Two Strings
+1157,Shortest  Unsorted Continuous Subarray,581,Shortest  Unsorted Continuous Subarray,523,Continuous  Subarray Sum
+1163,Distribute Candies,575,Distribute Candies,,
+1164,Wiggle Subsequence,376,Wiggle Subsequence,392,Is Subsequence
+1165,Subtree of  Another Tree,572,Subtree of  Another Tree,,
+1169,Permutation in  String,567,Permutation in  String,60,Permutation  Sequence
+1170,Reshape the Matrix,566,Reshape the Matrix,766,Toeplitz Matrix
+1171,Find the  Closest Palindrome,564,Find the  Closest Palindrome,214,Shortest Palindrome
+1172,Binary Tree Tilt,563,Binary Tree Tilt,257,Binary Tree Paths
+1173,Reverse  Words in a String III,557,Reverse  Words in a String III,186,Reverse  Words in a String II
+1174,Next Greater  Element III,556,Next Greater  Element III,503,Next Greater  Element II
+1176,Optimal Division,553,Optimal Division,399,Evaluate Division
+1177,Student  Attendance Record II,552,Student  Attendance Record II,551,Student  Attendance Record I
+1178,Student  Attendance Record I,551,Student  Attendance Record I,552,Student  Attendance Record II
+1180,Remove Boxes,546,Remove Boxes,722,Remove Comments
+1181,Diameter of  Binary Tree,543,Diameter of  Binary Tree,111,Minimum  Depth of Binary Tree
+1183,Single  Element in a Sorted Array,540,Single  Element in a Sorted Array,378,Kth  Smallest Element in a Sorted Matrix
+1184,Minimum Time  Difference,539,Minimum Time  Difference,389,Find the Difference
+1185,Complex  Number Multiplication,537,Complex  Number Multiplication,668,Kth  Smallest Number in Multiplication Table
+1187,K-diff Pairs  in an Array,532,K-diff Pairs in  an Array,215,Kth  Largest Element in an Array
+1188,Minimum  Absolute Difference in BST,530,Minimum  Absolute Difference in BST,539,Minimum Time  Difference
+1190,Longest  Word in Dictionary through Deleting,524,Longest  Word in Dictionary through Deleting,720,Longest Word  in Dictionary
+1191,Longest  Uncommon Subsequence II,522,Longest  Uncommon Subsequence II,521,Longest  Uncommon Subsequence I
+1192,Longest  Uncommon Subsequence I,521,Longest  Uncommon Subsequence I,522,Longest  Uncommon Subsequence II
+1193,Detect Capital,520,Detect Capital,,
+1194,Super Washing  Machines,517,Super Washing  Machines,,
+1195,Find  Largest Value in Each Tree Row,515,Find  Largest Value in Each Tree Row,366,Find Leaves  of Binary Tree
+1197,Find  Bottom Left Tree Value,513,Find Bottom  Left Tree Value,,
+1198,Most  Frequent Subtree Sum,508,Most Frequent  Subtree Sum,,
+1199,Perfect Number,507,Perfect Number,179,Largest Number
+1200,Relative Ranks,506,Relative Ranks,,
+1210,Increasing  Subsequences,491,Increasing  Subsequences,300,Longest  Increasing Subsequence
+1297,Count  of Smaller Numbers After Self,315,Count  of Smaller Numbers After Self,,
+1305,Integer to  English Words,273,Integer to  English Words,12,Integer to Roman
+1365,Minimum Cycle  Section,433,Minimum Genetic  Mutation,625,Minimum  Factorization
+1366,Directed Graph  Loop,,,,
+1367,Police Distance,72,Edit Distance,477,Total Hamming  Distance
+1368,Same Number,136,Single Number,179,Largest Number
+1377,Find Substring,647,Palindromic  Substrings,76,Minimum Window  Substring
+1378,Minimum  String Array Coverage,,,,
+1379,The Longest Scene,,,,
+1380,Log Sorting,791,Custom Sort String,,
+1395,The  Barycentre Of The Trees,,,,
+1396,Set Union,,,,
+1397,Digital Coverage,498,Diagonal Traverse,,
+1398,K Decimal Addition,370,Range Addition,,
